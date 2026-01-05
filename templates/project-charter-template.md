@@ -2,16 +2,16 @@
 
 ## 📋 Project Information
 
-| Field               | Details                  |
-|---------------------|--------------------------|
-| **Project Name**    | [Enter project name]     |
-| **Project Code**    | [e.g., PROJ-2026-001]    |
-| **Project Manager** | [Name]                   |
-| **Sponsor**         | [Executive sponsor name] |
-| **Start Date**      | [MM/DD/YYYY]             |
-| **Target End Date** | [MM/DD/YYYY]             |
-| **Last Updated**    | [MM/DD/YYYY]             |
-| **Version**         | [e.g., 1.0]              |
+| Field | Details |
+|-------|---------|
+| **Project Name** | [Enter project name] |
+| **Project Code** | [e.g., PROJ-2026-001] |
+| **Project Manager** | [Name] |
+| **Sponsor** | [Executive sponsor name] |
+| **Start Date** | [MM/DD/YYYY] |
+| **Target End Date** | [MM/DD/YYYY] |
+| **Last Updated** | [MM/DD/YYYY] |
+| **Version** | [e.g., 1.0] |
 
 ---
 
@@ -39,11 +39,11 @@
 > Cloud migration enables global expansion, reduces TCO by $2M over 5 years, and provides foundation for AI/ML capabilities.
 
 ### Expected Benefits
-| Benefit                | Metric           | Target     | Timeline  |
-|------------------------|------------------|------------|-----------|
-| [e.g., Cost Reduction] | [Annual savings] | [$2M/year] | [Year 2]  |
-| [e.g., Performance]    | [Response time]  | [<100ms]   | [Phase 3] |
-| [e.g., Availability]   | [Uptime]         | [99.9%]    | [Go-live] |
+| Benefit | Metric | Target | Timeline |
+|---------|--------|--------|----------|
+| [e.g., Cost Reduction] | [Annual savings] | [$2M/year] | [Year 2] |
+| [e.g., Performance] | [Response time] | [<100ms] | [Phase 3] |
+| [e.g., Availability] | [Uptime] | [99.9%] | [Go-live] |
 
 ---
 
@@ -63,11 +63,11 @@
    - Target: [Specific, measurable target]
 
 ### Key Performance Indicators (KPIs)
-| KPI                           | Baseline | Target   | Measurement Frequency |
-|-------------------------------|----------|----------|-----------------------|
-| [e.g., System Uptime]         | [95%]    | [99.9%]  | [Weekly]              |
-| [e.g., Cost per Transaction]  | [$0.50]  | [$0.20]  | [Monthly]             |
-| [e.g., User Satisfaction]     | [3.2/5]  | [4.5/5]  | [Quarterly]           |
+| KPI | Baseline | Target | Measurement Frequency |
+|-----|----------|--------|----------------------|
+| [e.g., System Uptime] | [95%] | [99.9%] | [Weekly] |
+| [e.g., Cost per Transaction] | [$0.50] | [$0.20] | [Monthly] |
+| [e.g., User Satisfaction] | [3.2/5] | [4.5/5] | [Quarterly] |
 
 ---
 
@@ -102,36 +102,36 @@
 ## 👥 Stakeholders
 
 ### Executive Sponsors
-| Name      | Title      | Role                          | Involvement Level      |
-|-----------|------------|-------------------------------|------------------------|
-| [Name]    | [Title]    | [Decision maker, funding]     | [Weekly/Monthly]       |
+| Name | Title | Role | Involvement Level |
+|------|-------|------|-------------------|
+| [Name] | [Title] | [Decision maker, funding] | [Weekly/Monthly] |
 
 ### Key Stakeholders
-| Name     | Title       | Department | Interest       | Influence      | Communication Frequency    |
-|----------|-------------|------------|----------------|----------------|----------------------------|
-| [Name]   | [Title]     | [Dept]     | [High/Med/Low] | [High/Med/Low] | [Weekly/Bi-weekly/Monthly] |
+| Name | Title | Department | Interest | Influence | Communication Frequency |
+|------|-------|------------|----------|-----------|------------------------|
+| [Name] | [Title] | [Dept] | [High/Med/Low] | [High/Med/Low] | [Weekly/Bi-weekly/Monthly] |
 
 ### Project Team
-| Name     | Role              | Responsibility                    | Allocation |
-|----------|-------------------|-----------------------------------|------------|
-| [Name]   | Project Manager   | Overall delivery                  | 100%       |
-| [Name]   | Tech Lead         | Architecture, technical decisions | 50%        |
-| [Name]   | Business Analyst  | Requirements, testing             | 75%        |
+| Name | Role | Responsibility | Allocation |
+|------|------|----------------|------------|
+| [Name] | Project Manager | Overall delivery | 100% |
+| [Name] | Tech Lead | Architecture, technical decisions | 50% |
+| [Name] | Business Analyst | Requirements, testing | 75% |
 
 ---
 
 ## 📅 High-Level Timeline
 
 ### Major Milestones
-| Milestone             | Description | Target Date | Dependencies |
-|-----------------------|------------------------------------------|--------------|------------------------|
-| Project Kickoff       | Team assembled, charter approved         | [MM/DD/YYYY] | Sponsor approval       |
-| Requirements Complete | All requirements documented & approved   | [MM/DD/YYYY] | Stakeholder interviews |
-| Design Complete       | Architecture & design approved           | [MM/DD/YYYY] | Requirements           |
-| Development Complete  | All code developed & unit tested         | [MM/DD/YYYY] | Design approval        |
-| UAT Complete          | User acceptance testing passed           | [MM/DD/YYYY] | Development            |
-| Go-Live               | Production deployment                    | [MM/DD/YYYY] | UAT sign-off           |
-| Project Closure       | Handoff, lessons learned                 | [MM/DD/YYYY] | Go-live + 30 days      |
+| Milestone | Description | Target Date | Dependencies |
+|-----------|-------------|-------------|--------------|
+| Project Kickoff | Team assembled, charter approved | [MM/DD/YYYY] | Sponsor approval |
+| Requirements Complete | All requirements documented & approved | [MM/DD/YYYY] | Stakeholder interviews |
+| Design Complete | Architecture & design approved | [MM/DD/YYYY] | Requirements |
+| Development Complete | All code developed & unit tested | [MM/DD/YYYY] | Design approval |
+| UAT Complete | User acceptance testing passed | [MM/DD/YYYY] | Development |
+| Go-Live | Production deployment | [MM/DD/YYYY] | UAT sign-off |
+| Project Closure | Handoff, lessons learned | [MM/DD/YYYY] | Go-live + 30 days |
 
 ### Phase Breakdown
 ```
